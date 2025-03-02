@@ -1,0 +1,25 @@
+> pi
+= 3.14159
+> vars   
+Variables:
+e = 2.71828
+pi = 3.14159
+> x=3+2
+x = 5
+> y=sin(pi/2)
+y = 1
+> x*y
+= 5
+> vars
+Variables:
+e = 2.71828
+pi = 3.14159
+x = 5
+y = 1
+> clear
+Variables cleared.
+> vars
+Variables:
+e = 2.71828
+pi = 3.14159
+> exit
