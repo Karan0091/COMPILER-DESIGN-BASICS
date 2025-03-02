@@ -18,6 +18,10 @@ The primary purpose of a compiler is to convert human-readable code into a forma
 
 Resources :  VS CODE, DEVTOUN COMPILER
 
+OUTPUTE :
+https://github.com/Karan0091/COMPILER-DESIGN-BASICS/blob/main/output
+
+
 
 
 
